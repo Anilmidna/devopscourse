@@ -135,7 +135,7 @@ export default function App() {
           >
             Cloud Engineering (AWS) <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">
-              & DevOps Mastery (Powered by GenAI)
+              & DevOps Mastery
             </span>
           </motion.h1>
           <motion.p 
